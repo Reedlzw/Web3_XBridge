@@ -33,7 +33,7 @@ Do not use the anchor test, it will cause the program deploy again on mainnet, u
 ## Verify Anchor IDL
 
 0. `anchor idl verify <program-id>`
-   eg: anchor idl upgrade  --filepath ./target/idl/web3_bridge.json  "AqwtzPZxUmM6KoDCm5ceC7kje4DB2bLPRjKVJ8njCjKx"
+   eg: anchor idl verify <program-id> eg: anchor idl upgrade --filepath ./target/idl/web3_bridge_v2.json "okxBd18urPbBi2vsExxUDArzQNcju2DugV9Mt46BxYE"
 
 ## Usefull Command
 
