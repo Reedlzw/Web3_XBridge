@@ -1,3 +1,6 @@
+// Copyright (c) 2023-2025 OKX.com
+// Licensed under the MIT License
+
 pub mod bridge_out;
 pub mod bridge_in;
 pub mod common;
